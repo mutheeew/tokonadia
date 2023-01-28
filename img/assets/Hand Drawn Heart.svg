@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect id="Hand Drawn Heart" width="24" height="24" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_15_3" transform="scale(0.02)"/>
+</pattern>
+<image id="image0_15_3" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZ0lEQVR4nO2ZPYgTURDH/34hfmAjChZ+NaIiWJz4hcfuTJIzgqigIZnZnOWBtZ0WZ6UgKIigiAgWIviBlWinIoJwzRXKNaLY6qEW0RPxYmRXDebYy/kuu3kvuD+YankwP+bx3s48ICMjIyMjwxZedQtYj4P0IlhvguUCWE4iVynCKy1tu7ZYXAhfD4L1LEhvgOUaWM+AgyPIDS5PP/nh4bmgioB0DKyNNvEdJPeQ03zLetK1YL0Elk/TriWpg+QOSPvSkRgorwbL8xkE4hJ7BL+yA6TnQPrNYF09qpLnzU9Ogsq7wfreWCKJIHmAvqEFnUvky5tA+sGKBDdlrncmUaguAckbqxLcjH2zFyE55YBA43e8jA4bY/qDVSD54oBAoxk52WUuEt4JthPnqSGnzUVIRuwnrq1B8tRMYv/QYpBOOliRV4bVqG61n7TGRc1QJBhwIOlGzNb6bCpywHrSHLu13pqJcNDvaEVGzERy5Q1uiuhVM5HwBmUdd7AiR2EM6y3HJOpRK2FMLvAd21YPzSWaVZFn1gX4T8ih2Yt4shEsXx2QGEWpNA8dQXLMuogvHhKB5XzvdoetzPk17um2hI5FXWrisJwA648uiXwEB5uRGr4cButEyhIT0W9S6oQtJ8m7lCRq4EoBXcMrrwPLi4QlxsGyHV2nGCwD65NkJGQUhep6WGNnaRFY73cgER4eV6L22jrhSJPksbFEOPybOui2zp7SCpC+/jcBnYyG2k5UYfrOst09E367G82TnYf1dqxAOFX3KtvQM+QH1/z1BFEDyeXeqEAchepK+LJ3xie4jIyMjP+SnwuRSXGKqL3hAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
