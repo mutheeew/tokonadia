@@ -5,27 +5,51 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
     <title>Tokonadia</title>
   </head>
   <body>
-    <div class="container">
-      <nav>
-        <div class="navleft">
-          <a href="#" class="skincare">Skincare</a>
-          <a href="#" class="makeup">Make up</a>
-          <a href="#" class="bodycare">Bodycare</a>
-          <a href="#" class="tipstrick">Tips & Trick</a>
-        </div>
-        <div class="logo">
-          <a href="#"><img src="img/assets/Tokonadia.svg" /></a>
-        </div>
-        <div class="navright">
-          <a href="#"><img src="img/assets/Search.svg" /></a>
-          <a href="#"><img src="img/assets/Hand Drawn Heart.svg" /></a>
-          <a href="#"><img src="img/assets/Shopping Cart.svg" /></a>
-          <a href="#"><img src="img/assets/User.svg" /></a>
-        </div>
-      </nav>
+    <nav>
+      <div class="navleft">
+        <a href="#" class="skincare">Skincare</a>
+        <a href="#" class="makeup">Make up</a>
+        <a href="#" class="bodycare">Bodycare</a>
+        <a href="#" class="tipstrick">Tips & Trick</a>
+      </div>
+      <div class="logo">
+        <a href="#"><img src="img/assets/Tokonadia.svg" /></a>
+      </div>
+      <div class="navright">
+        <a href="#"><img src="img/assets/Search.svg" /></a>
+        <a href="#"><img src="img/assets/Hand Drawn Heart.svg" /></a>
+        <a href="#"><img src="img/assets/Shopping Cart.svg" /></a>
+        <a href="#"><img src="img/assets/User.svg" /></a>
+      </div>
+    </nav>
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <img src="img/1.jpg" style="width: 100%" />
+      </div>
+
+      <div class="mySlides fade">
+        <img src="img/2.jpg" style="width: 100%" />
+      </div>
+
+      <div class="mySlides fade">
+        <img src="img/3.jpg" style="width: 100%" />
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">❮</a>
+      <a class="next" onclick="plusSlides(1)">❯</a>
     </div>
+    <br />
+
+    <div style="text-align: center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+
+    <script src="script.js"></script>
   </body>
 </html>
